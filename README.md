@@ -29,3 +29,8 @@ To set "1234" as new admin's password:
 
 ./debian11_oldinstaller.sh 1234
 ```
+
+## status api
+Install graylog api to monitor via Zabbix or any other kind of system that consumes api
+
+[https://github.com/wallacemariadeandrade/graylogstatusapi](https://github.com/wallacemariadeandrade/graylogstatusapi)
